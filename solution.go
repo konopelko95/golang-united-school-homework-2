@@ -27,5 +27,5 @@ if sidesNum == SidesTriangle {
 } else if sidesNum == SidesCircle {	
 	res = math.Pi * math.Pow(sideLen, 2.0)
 } 
-return
+return res
 }
