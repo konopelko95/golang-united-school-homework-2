@@ -1,4 +1,4 @@
-package solution
+package square
 
 //package square
 
